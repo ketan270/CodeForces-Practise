@@ -1,6 +1,6 @@
 import java.util.*;
 public class Watermelon {
-    public static void main(String[] args){
+    public static void main(String1[] args){
         Scanner sr = new Scanner(System.in);
         int n = sr.nextInt();
         if(n==2){
